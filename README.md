@@ -23,7 +23,7 @@ Java-based 2D survival game where the player collects baskets while avoiding pat
 
 ### Gameplay
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/gameplay.PNG)
 
 ### Leaderboard Example
 
